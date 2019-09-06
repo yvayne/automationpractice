@@ -1,0 +1,12 @@
+/.gradle/
+/.idea/
+/.allure/
+/build/
+/classes/
+/logs/
+/target/
+/test-output/
+/allure-results/
+/out/
+*.iml
+debug*
